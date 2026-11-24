@@ -59,7 +59,7 @@ python src/predict.py --Temperature 25 --Moisture 0.7 --Rainfall 200 --PH 6.5 \
   --Nitrogen 70 --Phosphorous 60 --Potassium 80 --Carbon 1.2 \
   --Soil "Loamy Soil" --Crop rice
 ```
-Downloading from Kaggle may require credentials (`~/.kaggle/kaggle.json` or `KAGGLE_USERNAME` / `KAGGLE_KEY`).
+
 
 ## Dataset
 [Fertilizer Recommendation (Kaggle)](https://www.kaggle.com/datasets/nishchalchandel/fertilizer-recommendation): 3,100 rows, 2,798 after cleaning.
